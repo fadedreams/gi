@@ -1,0 +1,88 @@
+# Python-specific ignores
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+develop-eggs/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.venv/
+venv/
+ENV/
+env/
+*.venv
+*.env
+
+# Django-specific ignores
+*.sqlite3
+*.sqlite3-journal
+media/
+staticfiles/
+*.log
+local_settings.py
+settings.py
+settings_local.py
+*.db
+
+# Files specified by user
+tree.txt
+all.txt
+
+# Common ignores for build systems and editors
+*.o
+*.bak
+*.swp
+*~
+
+# IDE and editor files
+.idea/
+.vscode/
+*.code-workspace
+
+# macOS-specific
+.DS_Store
+
+# Environment files
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Coverage reports
+.coverage
+coverage.xml
+*.cover
+htmlcov/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Unit test / profiling
+*.prof
+.cache/
+pytest_cache/
+
+# Django migrations (optional, uncomment if you want to ignore)
+# */migrations/*.py
+# !*/migrations/__init__.py
