@@ -1,3 +1,4 @@
+.vim-bookmarks
 # TypeScript-specific ignores
 node_modules/
 dist/

@@ -1,3 +1,4 @@
+.vim-bookmarks
 # Node.js and npm
 node_modules/
 npm-debug.log

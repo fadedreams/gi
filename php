@@ -1,3 +1,4 @@
+.vim-bookmarks
 # PHP-specific ignores
 vendor/
 composer.lock

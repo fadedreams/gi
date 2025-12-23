@@ -1,3 +1,4 @@
+.vim-bookmarks
 # Ruby-specific ignores
 *.gem
 .bundle/

@@ -1,3 +1,4 @@
+.vim-bookmarks
 # Java-specific ignores
 *.class
 *.jar
