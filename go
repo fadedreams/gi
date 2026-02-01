@@ -1,4 +1,5 @@
 .vim-bookmarks
+.session.vim
 # Go-specific ignores
 /bin/
 /pkg/

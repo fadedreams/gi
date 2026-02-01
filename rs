@@ -1,4 +1,5 @@
 .vim-bookmarks
+.session.vim
 # Rust-specific ignores
 /target/
 **/*.rs.bk

@@ -1,4 +1,5 @@
 .vim-bookmarks
+.session.vim
 # Terraform-specific ignores
 *.tfstate
 *.tfstate.*

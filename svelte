@@ -1,4 +1,5 @@
 .vim-bookmarks
+.session.vim
 # Node modules
 node_modules/
 

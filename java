@@ -1,4 +1,5 @@
 .vim-bookmarks
+.session.vim
 # Java-specific ignores
 *.class
 *.jar

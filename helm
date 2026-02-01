@@ -1,4 +1,5 @@
 .vim-bookmarks
+.session.vim
 # Helm-specific ignores
 *.tgz
 charts/

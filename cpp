@@ -1,4 +1,5 @@
 .vim-bookmarks
+.session.vim
 # C++ object files and executables
 *.o
 *.obj

@@ -1,4 +1,5 @@
 .vim-bookmarks
+.session.vim
 # TypeScript-specific ignores
 node_modules/
 dist/

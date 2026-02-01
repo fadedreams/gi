@@ -1,4 +1,5 @@
 .vim-bookmarks
+.session.vim
 # JavaScript-specific ignores
 node_modules/
 dist/

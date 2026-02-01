@@ -1,4 +1,5 @@
 .vim-bookmarks
+.session.vim
 # Python-specific ignores
 __pycache__/
 *.py[cod]
