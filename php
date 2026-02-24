@@ -10,6 +10,9 @@ composer.lock
 # Files specified by user
 tree.txt
 all.txt
+all_ext.txt
+all_dir.txt
+all_files.txt
 
 # Common ignores for build systems and editors
 *.o

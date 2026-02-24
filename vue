@@ -54,6 +54,9 @@ Thumbs.db
 # Specific files mentioned
 tree.txt
 all.txt
+all_ext.txt
+all_dir.txt
+all_files.txt
 
 # Miscellaneous
 *.bak
