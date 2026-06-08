@@ -1,4 +1,5 @@
 .vim-bookmarks
+.nvim-registers.json
 .session.vim
 # PHP-specific ignores
 vendor/
@@ -57,4 +58,3 @@ dist/
 # Temporary files
 *.tmp
 *.temp
-.nvim-registers.json

@@ -1,4 +1,5 @@
 .vim-bookmarks
+.nvim-registers.json
 .session.vim
 # Node modules
 node_modules/
@@ -57,4 +58,3 @@ all_exc.txt
 all_ext.txt
 all_ext_X.txt
 tree.txt
-.nvim-registers.json

@@ -1,4 +1,5 @@
 .vim-bookmarks
+.nvim-registers.json
 .session.vim
 # Python-specific ignores
 __pycache__/
@@ -79,4 +80,3 @@ htmlcov/
 *.prof
 .cache/
 pytest_cache/
-.nvim-registers.json

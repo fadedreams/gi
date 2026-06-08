@@ -1,4 +1,5 @@
 .vim-bookmarks
+.nvim-registers.json
 .session.vim
 # TypeScript-specific ignores
 node_modules/
@@ -48,4 +49,3 @@ tree.txt
 *.js
 !*.config.js
 !*.d.ts
-.nvim-registers.json

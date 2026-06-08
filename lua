@@ -1,4 +1,5 @@
 .vim-bookmarks
+.nvim-registers.json
 .session.vim
 
 all.txt
@@ -80,4 +81,3 @@ Thumbs.db
 # Environment / config files (uncomment if you want to ignore them)
 # .env
 # config.lua
-.nvim-registers.json

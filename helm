@@ -1,4 +1,5 @@
 .vim-bookmarks
+.nvim-registers.json
 .session.vim
 # Helm-specific ignores
 *.tgz
@@ -56,4 +57,3 @@ tree.txt
 *.tmp
 temp/
 *.lock
-.nvim-registers.json

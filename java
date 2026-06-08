@@ -1,4 +1,5 @@
 .vim-bookmarks
+.nvim-registers.json
 .session.vim
 # Java-specific ignores
 *.class
@@ -86,4 +87,3 @@ nb-configuration.xml
 jacoco/
 *.exec
 *.ec
-.nvim-registers.json

@@ -1,4 +1,5 @@
 .vim-bookmarks
+.nvim-registers.json
 .session.vim
 # Go-specific ignores
 /bin/
@@ -50,4 +51,3 @@ vendor/
 .env.development
 .env.test
 .env.production
-.nvim-registers.json

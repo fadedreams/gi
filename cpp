@@ -1,4 +1,5 @@
 .vim-bookmarks
+.nvim-registers.json
 .session.vim
 
 all.txt
@@ -28,4 +29,3 @@ tree.txt
 build/
 bin/
 obj
-.nvim-registers.json

@@ -1,4 +1,5 @@
 .vim-bookmarks
+.nvim-registers.json
 .session.vim
 # Rust-specific ignores
 /target/
@@ -36,4 +37,3 @@ tree.txt
 # Documentation and other generated files
 /doc/
 *.md.bak
-.nvim-registers.json

@@ -1,4 +1,5 @@
 .vim-bookmarks
+.nvim-registers.json
 .session.vim
 # JavaScript-specific ignores
 node_modules/
@@ -49,4 +50,3 @@ tree.txt
 *.spec.js
 __tests__/
 test/
-.nvim-registers.json

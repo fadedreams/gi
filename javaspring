@@ -1,4 +1,5 @@
 .vim-bookmarks
+.nvim-registers.json
 .session.vim
 # Java-specific ignores
 *.class
@@ -104,4 +105,3 @@ target/classes/
 target/test-classes/
 target/spring-boot-actuator.log
 *.scc
-.nvim-registers.json

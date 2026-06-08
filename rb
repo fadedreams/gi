@@ -1,4 +1,5 @@
 .vim-bookmarks
+.nvim-registers.json
 .session.vim
 # Ruby-specific ignores
 *.gem
@@ -62,4 +63,3 @@ rdoc/
 spec/reports/
 test/tmp/
 test/version_tmp/
-.nvim-registers.json

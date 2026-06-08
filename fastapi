@@ -1,4 +1,5 @@
 .vim-bookmarks
+.nvim-registers.json
 .session.vim
 # Python-specific ignores
 *.pyc
@@ -77,4 +78,3 @@ tree.txt
 *.tmp
 temp/
 tmp/
-.nvim-registers.json
