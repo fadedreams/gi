@@ -49,3 +49,4 @@ tree.txt
 *.spec.js
 __tests__/
 test/
+.nvim-registers.json

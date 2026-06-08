@@ -62,3 +62,4 @@ rdoc/
 spec/reports/
 test/tmp/
 test/version_tmp/
+.nvim-registers.json

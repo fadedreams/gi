@@ -36,3 +36,4 @@ tree.txt
 # Documentation and other generated files
 /doc/
 *.md.bak
+.nvim-registers.json

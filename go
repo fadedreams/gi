@@ -50,3 +50,4 @@ vendor/
 .env.development
 .env.test
 .env.production
+.nvim-registers.json

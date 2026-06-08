@@ -48,3 +48,4 @@ tree.txt
 *.js
 !*.config.js
 !*.d.ts
+.nvim-registers.json

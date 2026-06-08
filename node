@@ -52,3 +52,4 @@ coverage/
 # Build output
 *.min.js
 *.map
+.nvim-registers.json

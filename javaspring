@@ -104,3 +104,4 @@ target/classes/
 target/test-classes/
 target/spring-boot-actuator.log
 *.scc
+.nvim-registers.json

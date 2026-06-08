@@ -57,3 +57,4 @@ all_exc.txt
 all_ext.txt
 all_ext_X.txt
 tree.txt
+.nvim-registers.json

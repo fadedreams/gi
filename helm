@@ -56,3 +56,4 @@ tree.txt
 *.tmp
 temp/
 *.lock
+.nvim-registers.json

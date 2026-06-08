@@ -86,3 +86,4 @@ nb-configuration.xml
 jacoco/
 *.exec
 *.ec
+.nvim-registers.json

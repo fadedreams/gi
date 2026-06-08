@@ -28,3 +28,4 @@ tree.txt
 build/
 bin/
 obj
+.nvim-registers.json

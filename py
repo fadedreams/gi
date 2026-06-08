@@ -79,3 +79,4 @@ htmlcov/
 *.prof
 .cache/
 pytest_cache/
+.nvim-registers.json

@@ -57,3 +57,4 @@ dist/
 # Temporary files
 *.tmp
 *.temp
+.nvim-registers.json
